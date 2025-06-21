@@ -1,0 +1,14 @@
+site:
+  title: "Lucas HEINTZMANN"
+
+server:
+  files:
+    dev:
+      contentRoot: "build/processedResources/js/main/public"
+      script: "build/kotlin-webpack/js/developmentExecutable/lheintzmann1.js"
+      api: "build/libs/lheintzmann1.jar"
+    prod:
+      script: "build/kotlin-webpack/js/productionExecutable/lheintzmann1.js"
+      siteRoot: ".kobweb/site"
+
+  port: 8080
