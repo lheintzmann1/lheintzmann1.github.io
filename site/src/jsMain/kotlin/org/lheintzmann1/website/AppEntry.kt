@@ -1,4 +1,4 @@
-package io.github.lheintzmann1
+package org.lheintzmann1.website
 
 import androidx.compose.runtime.*
 import com.varabyte.kobweb.compose.ui.Modifier

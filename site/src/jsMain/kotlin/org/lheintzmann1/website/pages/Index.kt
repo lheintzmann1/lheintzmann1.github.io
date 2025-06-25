@@ -1,4 +1,4 @@
-package io.github.lheintzmann1.pages
+package org.lheintzmann1.website.pages
 
 import androidx.compose.runtime.*
 import com.varabyte.kobweb.compose.foundation.layout.Box
